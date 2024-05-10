@@ -1,2 +1,2 @@
 # projetoFilmes
-Projeto de catálogo de filmes baseado curso da Hashtag treinamentos, vou implementando melhorias ao longo do tempo e adicionando elas aqui para demonstrar features criadas por mim.
+Projeto de catálogo de filmes baseado curso da Hashtag treinamentos. As melhorias serão anotadas aqui embaixo para destacar as novas features
