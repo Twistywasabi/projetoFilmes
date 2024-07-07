@@ -1,14 +1,14 @@
-# Site de filmes 🚩
+# Site Cronômetro 🚩
 
-Site de filmes baseado no curso da Hashtag Treinamentos
+Cronômetro baseado no curso da Hashtag Treinamentos
 
 - Objetivo 📜
 
-Criar um site de filmes em que o usuário faz busca baseado no título e ano de lançamento e o site retorna o resultado com o cartaz e outras informações do filme. Se o usuário quiser, ele pode adicionar o filme na sua lista
+Criar um um cronômetro com três botões: Iniciar, Pausar e Reiniciar
 
 <p align="center">
-<img src="https://github.com/Twistywasabi/projetoFilmes/blob/main/1715627448589.jpg"><br>
-<a>Imagem do site após pesquisar por um filme</a>
+<img src="https://github.com/Twistywasabi/projetoCronometro/blob/main/1715627447851.jpg"><br>
+<a>Imagem do cronômetro</a>
 </p>
 
 
@@ -20,7 +20,7 @@ Criar um site de filmes em que o usuário faz busca baseado no título e ano de 
 
 - Referências 📚
 
-https://www.omdbapi.com/ 
+https://www.hashtagtreinamentos.com/
 
 - Atualizações 🕐
 
